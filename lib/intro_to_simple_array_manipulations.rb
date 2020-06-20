@@ -7,5 +7,6 @@ def using_insert(array, element)
 end
 
 def using_uniq
-  
+  no_dupes = array.uniq
+  return no_dupes
 end
