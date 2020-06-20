@@ -11,6 +11,10 @@ def using_uniq(array)
   return no_dupes
 end
 
-def using_flatten(array, string)
+def using_flatten(array)
+  
+end
+
+def using_delete(array, string)
   array.delete(string)
 end
