@@ -10,3 +10,7 @@ def using_uniq(array)
   no_dupes = array.uniq
   return no_dupes
 end
+
+def using_flatten(array, string)
+  
+end
